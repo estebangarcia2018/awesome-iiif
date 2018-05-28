@@ -22,7 +22,7 @@ El International Image Interoperability Framework (IIIF) es un grupo de APIs est
 - [Herramientas de Manifest de Presentación](#presentation-manifest-tools)
 - [Servidores de la API de Búsqueda de Contenido](#content-search-api)
 - [Autenticación](#authentication)
-- [Tutoriales](#tutorials)
+- [Tutoriales](#tutoriales)
 - [Videos y Diapositivas](#videos-and-slide-decks)
 - [Descubrimiento](#discovery)
 - [Anotaciones](#annotations)
