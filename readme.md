@@ -11,10 +11,10 @@ El International Image Interoperability Framework (IIIF) es un grupo de APIs est
 **Aviso Legal**: Esta lista es creada para propósitos informativos solamente, y sus enlaces no constituyen un apoyo, recomendación, o preferencia por parte de IIIF Consortium.
 
 ## Contenidos
-- [Estándares](#standards)
-- [Servidores de Imágenes](#image-servers)
-- [Shims de Servidor de Imágenes](#image-server-shims)
-- [Visores de Imágenes](#image-viewers)
+- [Estándares](#estándares)
+- [Servidores de Imágenes](#servidores-de-imágenes)
+- [Shims de Servidor de Imágenes](#shims-de-servidor-de-imágenes)
+- [Visores de Imágenes](#visores-de-imágenes)
 - [Librerías de la API de Imagen](#image-api-libraries)
 - [Herramientas de Imagen](#image-tools)
 - [Librerías de la API de Presentación](#presentation-api-libraries)
