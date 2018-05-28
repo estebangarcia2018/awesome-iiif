@@ -1,36 +1,36 @@
-# Awesome IIIF Curation Guidelines
+# Orientaciones de Curación de Awesome IIIF
 
-## Curators of Awesome
+## Curadores de Awesome
 
-Maintaining a useful and organized awesome list takes work. New resources need to be discovered and evaluated. The [Awesome IIIF list](https://github.com/IIIF/awesome-iiif) is curated by active members in the IIIF community. In order to get involved, join the #curators_of_awesome channel in Slack and let us know you'd like to help. We use the channel to organize our efforts and discuss how to improve the list.
+Mantener una lista awesome útil y organizada requiere trabajo. Es necesario descubrir y evaluar nuevos recursos. La [lista Awesome IIIF](https://github.com/IIIF/awesome-iiif) es curada por miembros activos de la comunidad IIIF. A fin de participar, únase al canal #curators_of_awesome en Slack y háganos saber que le gustaría ayudar. Usamos el canal para organizar nuestros esfuerzos y discutir como mejorar la lista.
 
-## Process
+## Proceso
 
-List items begin as pull requests or issues. In order for an item to be added to the list, an issue must be submitted containing at minimum a link to the item, along with a description and rationale for why the item should be added to the list. Details of expectations for pull requests can be found in the [Contributing Guidelines](https://github.com/IIIF/awesome-iiif/blob/master/contributing.md).  Anyone in the community can issue a pull request or submit an issue with a new item. The job of curators is to determine what to approve and whether it meets the standards for our list.
+Los items de lista empiezan como peticiones pull o issues. Para que un ítem sea añadido a la lista, es preciso enviar un issue que contenga, como mínimo, un enlace hacia el ítem, junto con una descripción y razonamiento de por qué el ítem se debiera agregar a la lista. Los detalles de las expectativas para las peticiones pull se pueden encontrar en las [Orientaciones para Contribuir](https://github.com/IIIF/awesome-iiif/blob/master/contributing.md).  Cualquier miembro de la comunidad puede efectuar una petición pull o enviar un issue con un nuevo ítem. El trabajo de los curadores es determinar qué se aprueba, y si cumple los estándares de nuestra lista.
 
-### Assessment
+### Evaluación
 
-The Awesome IIIF list is a curated repository of exemplar IIIF resources, such as helpful links to material about each of the IIIF APIs, demonstrations of their use, tutorials, and presentations. When assessing resources for “awesomeness,” curators consider the following kinds of questions.
+La lista Awesome IIIF es un repositorio curado de recursos ejemplares de IIIF, tales como enlaces útiles hacia material sobre cada una de las APIs de IIIF, demostraciones de sus usos, tutoriales, y presentaciones. Al evaluar recursos para awesome, los curadores consideran los siguientes tipos de preguntas.
 
-- Does the resource provide an exceptional working example of one or more IIIF APIs in action? Is it high quality? Original? A demonstration of new functionality?
-- Is the resource widely useful or does it provide reusable tools?
-- Does the resource provide good guidance for implementing IIIF APIs?
-- Does the resource provide a clear explanation of one or more of the IIIF APIs for newcomers?
-- If the resource is a written work, such as an article, blog, or scholarly work, does it provide a clear message about the benefits of IIIF or provoke ideas about future applications and experimentation?
-- Does the resource add depth or more choice to a particular section of the Awesome list?
+- ¿El recurso proporciona un ejemplo excepcional de una o más de las APIs de IIIF en acción? ¿Es de alta calidad? ¿Original? ¿Una demostración de nueva funcionalidad?
+- ¿El recurso es de amplia utilidad o proporciona herramientas reusables?
+- ¿El recurso proporciona buena orientación para implementar las APIs de IIIF?
+- ¿El recurso proporciona una explicación clara de una o más de las APIs de IIIF para los principiantes?
+- Si el recurso es un trabajo escrito, por ejemplo, un artículo, blog, u obra académica, ¿proporciona un mensaje claro sobre los beneficios de IIIF o provoca ideas sobre aplicaciones futuras y experimentación?
+- ¿El recurso aporta profundidad o más opciones a una sección particular de la lista Awesome?
 
-### Before Approval
+### Antes de la Aprobación
 
-Visit the link to the resource and evaluate whether it is appropriate for our awesome list. Make sure any pull requests follow the [contribution guidelines](https://github.com/IIIF/awesome-iiif/blob/master/contributing.md) for adding to the list. For instance, read the short description to make sure it is clear, concise, and accurate. An issue or pull request ought to have an appropriate description added before it is approved.
+Visite el enlace hacia el recurso y juzgue si es apropiado para nuestra lista awesome. Asegure que las peticiones pull cumplen las [orientaciones para contribuir](https://github.com/IIIF/awesome-iiif/blob/master/contributing.md) para añadir a la lista. Por ejemplo, lea la descripción corta para asegurar que es clara, concisa, y exacta. Un issue o petición pull debiera tener una descripción apropiada añadida antes de ser aprobado.
 
-### Approvals
+### Aprobaciones
 
-All new items ought to have the approval of 2 Curators of Awesome before being merged or added. Approval can be signaled with a thumbs up from any curator. Any approvals ought to come from someone else other than the submitter or someone associated with the item. Bug fixes like broken links can be made immediately by anyone with commit rights.
+Todos los items nuevos debieran tener la aprobación de 2 Curadores de Awesome antes de ser mezclados o agregados. La aprobación puede ser señalada con un thumbs-up de cualquier curador. Las aprobaciones no debieran proceder del remitente del ítem ni de alguien asociado al ítem. Los bug-fixes, como los enlaces rotos, pueden ser efectuados inmediatamente por cualquiera con privilegios de commit.
 
-### Sections
+### Secciones
 
-If you see the need to add a new section or rearrange items into different sections, follow the same process as for items. Issue a pull request or detail in an issue what change you would like to make for discussion and approval. It is best for a new section to start with at least two items.
+Si ve la necesidad de añadir una nueva sección o reorganizar items en secciones diferentes, siga el mismo proceso que para los items. Envíe una petición pull o detalle en un issue qué cambio le gustaría hacer para su discusión y aprobación. Es mejor que una nueva sección comience con al menos dos items.
 
-### Weeding
+### Escarda
 
-One of the goals of the list is to be current for the best practices and tools available. Resources can go out of date and do a disservice to the community to continue to list them. Over time some links will no longer resolve, a demo will no longer be functional, or a tool superseded. Periodically curators will review the links currently on the list and consider if any ought to be removed. The same approval process for additions will be used for removals. In-person conference (Spring) and working group (Fall) meetings will be opportunities to review the list for curation and weeding. 
+Uno de los objetivos de la lista es ser actual en cuanto a las mejores prácticas y herramientas disponibles. Los recursos pueden caducar y su permanencia en la lista ser perjudicial para la comunidad. Con el tiempo algunos enlaces dejarán de abrir, un demo dejará de ser funcional, o una herramienta será reemplazada por otra mejor. Periódicamente, los curadores revisarán los enlaces de la lista y considerarán si es preciso eliminar alguno. El mismo proceso de aprobación de las adiciones será usado para las eliminaciones. Las reuniones de conferencia en-persona (primavera) y grupo de trabajo (otoño) serán oportunidades de revisar la lista para fines de curación y escarda. 
